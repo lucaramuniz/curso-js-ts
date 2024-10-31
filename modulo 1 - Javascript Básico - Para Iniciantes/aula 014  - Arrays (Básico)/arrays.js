@@ -14,3 +14,6 @@ alunos.unshift("endrinho");
 alunos.pop();
 alunos.shift();
 
+console.log(alunos.slice(0,1));
+
+

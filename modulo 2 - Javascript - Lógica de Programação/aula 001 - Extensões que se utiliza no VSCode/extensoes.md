@@ -1,4 +1,4 @@
-##Extensões que são úteis
+##Extensões que são úteis##
 - Code Runner:
     Extensão para executar ferramentas e scripts das linguagens de programação
 
@@ -15,3 +15,10 @@
     Extensão de padronização de códigos javascript
     Não recomendável para quem está iniciado
 
+
+##Extensões de temas úteis##
+
+- Material icon theme
+    Extensão feita para icones nas pastas para melhor decoração e orientação
+- Dracula
+    Extensão feita para melhor tema para codificar

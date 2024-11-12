@@ -2,6 +2,7 @@
 :root {
   --primary-color: rgb(17, 86, 102);
   --primary-color-darker: rgb(9, 48, 56);
+  --sucess-green: rgb(109, 255, 182);
 }
 * {
   box-sizing: border-box;
@@ -58,5 +59,10 @@ form button:hover {
 }
 
 form button:active {
-  background: blue;
+  background: darkgreen;
+}
+
+.paragrafo-resultado {
+  background: var(--sucess-green);
+  padding: 10px 20px;
 }

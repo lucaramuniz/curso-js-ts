@@ -12,3 +12,12 @@ console.log(true || false || false || false); //true
 //NOT
 console.log(!false); //converte a true afirmando ser verdade o False
 console.log(!!false); //retorna a false, anulando o true original, afirmando ser falso o False
+
+const user = 'shell';
+const passwd = 'xsdJS';
+
+//                   TRUE                 TRUE
+const goLogin = user === 'shell' && passwd === 'xsdJS';
+console.log(goLogin);
+
+console.log(!false);

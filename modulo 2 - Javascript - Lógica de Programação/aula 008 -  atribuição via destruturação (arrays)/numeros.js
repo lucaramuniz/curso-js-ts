@@ -22,3 +22,5 @@ const numerosKeys = [
   // 0  1  2
   [7, 8, 9],
 ];
+const [lista1, lista2, lista3] = numerosKeys;
+console.log(lista1[0]);

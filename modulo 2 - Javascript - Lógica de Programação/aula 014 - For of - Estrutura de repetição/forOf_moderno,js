@@ -1,0 +1,5 @@
+//for of moderno - acessa os valores do array e não os indices
+const nome = ["lucas", "joão", "maria"];
+for (let valor of nome) {
+  console.log(valor);
+}

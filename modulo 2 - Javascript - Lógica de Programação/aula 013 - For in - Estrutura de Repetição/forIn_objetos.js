@@ -1,3 +1,4 @@
+//for in com objeto - ler as chaves do objeto
 const pessoa = {
     nome: "Lucas",
     sobrenome: "Santos",
